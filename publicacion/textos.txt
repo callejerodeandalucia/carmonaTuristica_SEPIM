@@ -1,11 +1,53 @@
 Título (30)
 ===========
+APP TURÍSTICA DE CARMONA
 
 Descripción breve (80)
 ======================
+Guía con información de interés de Carmona, también llamada “Lucero de Europa”.
 
 Descripción completa (4000)
 ===========================
+Con la Aplicación “Guía Oficial de Carmona”, ¡llevarás Carmona en tu bolsillo!
+
+Es una aplicación desarrollada por el Ayuntamiento de Carmona y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Carmona desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta histórica y monumental ciudad.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, consultar las paradas de autobús, taxi y parking más cercanos, localizar y llamar a los teléfonos de urgencias y emergencias, centros de salud, hoteles, alojamientos rurales, restaurantes, bares, hostales, agencias de viajes, servicios públicos, servicios turísticos, así como conocer sus fiestas y costumbres, ocio, cultura, artesanía, monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales. Para poder identificar mejor la ubicación la aplicación ofrece una imagen de la fachada donde está ubicado el lugar de la búsqueda a la vez que ofrece una breve descripción informativa.
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+
+La Ciudad de Carmona está ubicada en la Provincia de Sevilla, en la Comarca de “Los Alcores”. es indiscutiblemente el centro comercial, cultural y de servicios de un gran territorio que abarca todo el arco oriental de la provincia de Sevilla. 
+
+Carmona se encuentra a 30 km de Sevilla. En la última cota de importancia de Los Alcores a 235 m de altitud dominando la dilatada Vega del Corbones.
+También con sus líneas regulares de autobuses se comunica diariamente con los municipios de la provincia y con las grandes capitales andaluzas y españolas.
+
+
+
+La fertilidad de la zona y su privilegiada situación geográfica en lo alto de un cabezo de fácil defensa hicieron que Carmona estuviera poblada desde "tiempos prehistóricos". Aunque hayan aparecido restos del Paleolítico, son mucho más abundantes los del Neolítico y Eneolítico entre los que destacan los magníficos"vasos campaniformes" del Acebuchal. 
+
+A partir de un núcleo turdetano, se desarrolló una colonia cartaginesa de gran importancia, conservándose algunos restos de murallas de esta etapa en la Puerta de Sevilla . 
+
+En el año 206 a. C., Carmona es conquistada por el Imperio Romano; fue intensamente romanizada y se convirtió en uno de los núcleos urbanos más importantes de la Bética, con el nombre de "Carmo". 
+
+El trazado de la ciudad, que se realizó sobre la población cartaginesa, todavía se percibe en la actual Carmona, especialmente el Cardo Máximo, que iba desde la "Puerta de Sevilla" a la de "Córdoba" 
+
+De esta época los restos arquitectónicos y escultóricos son de una gran categoría, destacando la impresionante Necrópolis. 
+
+Conserva también restos de la época visigoda. Su importancia no decreció en época musulmana, y llegó a ser capital de uno de los reinos de Taifas, en el siglo XI. Los árabes reformaron su sistema defensivo, y la embellecieron con notables alcázares, mezquitas y otros notorios edificios, de los que aún hay hoy vestigios. 
+
+Como dijo Fernando III, el Santo cuando a lo lejos divisaba la ciudad que iba a reconquistar: 
+          “SICVT LVCIFER LVCET IN AURORA,
+           ITA IN VANDALIA CARMONA”
+
+
+"Como el lucero luce en la aurora, así en Andalucía Carmona".
+
+                                         ¡VEN Y VISITA CARMONA!
+
 
 Etiquetas	
 ===========
