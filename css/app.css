@@ -6,6 +6,10 @@ body,
   margin: 0;
   padding: 0;
 }
+div {
+  background-image: url("resources/android/icon/drawable-xxxhdpi-icon.png");
+  background-attachment: fixed;
+}
 /*.ui-page,
 .ui-page * {
   box-sizing: border-box;
